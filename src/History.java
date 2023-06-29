@@ -83,9 +83,6 @@ public class History {
                 }
             }
         }
-
-        dos.close();
-        os.close();
     }
 
     //在服务端创建群消息记录文件夹
